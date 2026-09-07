@@ -6,9 +6,8 @@
 
 <br/>
 
-```
+==============================================
 
-whoami
 > arch-devnix
 > young programmer, still leveling up
 
@@ -20,7 +19,8 @@ status
 > 💬 ask me about ...
 > 📫 reach me at ...
 
-```
+==============================================
+
 
 <br/>
 
