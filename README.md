@@ -20,7 +20,7 @@
 
   <br/><br/>
 
-<img src="https://lanyard.kyrie25.dev/api/1076249558125912155?imgStyle=circle&animatedDecoration=true&hideProfile=false&showDisplayName=true&showBanner=animated&bannerFilter=blur(3px)%20brightness(0.5)%20grayscale(1)&waveColor=transparent&gradient=000000-555555-FFFFFF-555555-000000&waveSpotifyColor=transparent&borderRadius=50%25&hideStatus=false" />
+<img src="https://lanyard.kyrie25.dev/api/1076249558125912155?imgStyle=circle&animatedDecoration=false&hideProfile=false&showDisplayName=true&showBanner=false&waveColor=transparent&gradient=000000-333333-000000&waveSpotifyColor=transparent&borderRadius=20px&hideStatus=false" />
 
   <br/><br/>
   <sub>Powered by caffeine</sub>
