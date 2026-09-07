@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/2845778d-a5b0-4852-befd-3ff9f4df3c7b" width="400" alt="Cute Pixel Art Banner">
+  <img src="https://github.com/user-attachments/assets/2845778d-a5b0-4852-befd-3ff9f4df3c7b" width="400" alt="Black Sea">
   <br/><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=CCCCCC&center=true&vCenter=true&width=440&lines=arch-devnix;Python+%2F%2F+Arch+Linux;btw+I+use+Arch" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=CCCCCC&center=true&vCenter=true&width=440&lines=arch-devnix;Python+%2F%2F+Arch+Linux;I+Use+Arch+btw" alt="Typing SVG" />
   <br/><br/>
 
 **Stack**
