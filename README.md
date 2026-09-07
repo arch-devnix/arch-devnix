@@ -41,15 +41,6 @@ status
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arch-devnix&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&icon_color=FFFFFF&text_color=CCCCCC&hide_title=false" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arch-devnix&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=CCCCCC&langs_count=6" height="165"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
 ### Connect
 
 <a href="https://github.com/arch-devnix"><img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/></a>
