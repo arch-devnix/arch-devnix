@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://pinimg.com" width="220" alt="Cute Pixel Art Banner">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=CCCCCC&center=true&vCenter=true&width=440&lines=arch-devnix;Python+%2F%2F+Arch+Linux;btw+I+use+Arch" alt="Typing SVG" />
 
