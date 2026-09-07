@@ -16,7 +16,11 @@
 
 **Socials**
 
-<a href="https://github.com/arch-devnix"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff" /></a> <a href="https://linktr.ee/devnix"><img src="https://img.shields.io/badge/Linktree-000?style=for-the-badge&logo=linktree&logoColor=fff" /></a> <a href="https://discord.com/users/1076249558125912155"><img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=fff" /></a>
+<a href="https://github.com/arch-devnix"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff" /></a> <a href="https://linktr.ee/devnix"><img src="https://img.shields.io/badge/Linktree-000?style=for-the-badge&logo=linktree&logoColor=fff" /></a>
+
+  <br/><br/>
+
+<img src="https://lanyard.kyrie25.dev/api/1076249558125912155?imgStyle=circle&animatedDecoration=true&hideProfile=false&showDisplayName=true&showBanner=animated&bannerFilter=blur(2px)%20brightness(0.6)&waveColor=transparent&gradient=000000-333333-000000&waveSpotifyColor=transparent&borderRadius=20px&hideStatus=false" />
 
   <br/><br/>
   <sub>Powered by caffeine</sub>
