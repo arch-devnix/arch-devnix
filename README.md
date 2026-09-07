@@ -10,12 +10,15 @@
 
 whoami
 > arch-devnix
-> young programmer
+> young programmer, still leveling up
 
 status
 > 🐍 mainly write Python
 > 🐧 daily driving Arch Linux (btw)
-> 🌱 currently learning HTML
+> 🌱 currently learning ...
+> 👯 open to collaborating on ...
+> 💬 ask me about ...
+> 📫 reach me at ...
 
 ```
 
@@ -38,14 +41,8 @@ status
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arch-devnix&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&icon_color=CCCCCC&text_color=CCCCCC" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arch-devnix&theme=github-dark-blue&hide_border=true&background=0D0D0D&stroke=333333&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arch-devnix&layout=compact&theme=github_dark&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=CCCCCC" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=arch-devnix&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&icon_color=FFFFFF&text_color=CCCCCC&hide_title=false" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arch-devnix&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=CCCCCC&langs_count=6" height="165"/>
 
 </div>
 
@@ -56,6 +53,7 @@ status
 ### Connect
 
 <a href="https://github.com/arch-devnix"><img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/></a>
+<!-- Add more badges as needed, e.g. LinkedIn, Twitter/X, personal site -->
 
 </div>
 
