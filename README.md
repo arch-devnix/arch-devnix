@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/2845778d-a5b0-4852-befd-3ff9f4df3c7b" width="220" alt="Cute Pixel Art Banner">
+<img src="https://github.com/user-attachments/assets/2845778d-a5b0-4852-befd-3ff9f4df3c7b" width="400" alt="Cute Pixel Art Banner">
 
 <br/>
 <br/>
