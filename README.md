@@ -6,19 +6,26 @@
 <sub>young dev // python // arch btw</sub>
 <br/>
 <br/>
+
 **Stack**
+
 [![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=fff)]()
 [![Arch](https://img.shields.io/badge/Arch-000?style=flat&logo=archlinux&logoColor=fff)]()
 [![Git](https://img.shields.io/badge/Git-000?style=flat&logo=git&logoColor=fff)]()
 [![Docker](https://img.shields.io/badge/Docker-000?style=flat&logo=docker&logoColor=fff)]()
 [![Neovim](https://img.shields.io/badge/Neovim-000?style=flat&logo=neovim&logoColor=fff)]()
+
 <br/>
 <br/>
+
 **Socials**
+
 <a href="https://github.com/arch-devnix"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff"/></a>
 <a href="https://linktr.ee/devnix"><img src="https://img.shields.io/badge/Linktree-000?style=for-the-badge&logo=linktree&logoColor=fff"/></a>
 <a href="https://discord.com/users/1076249558125912155"><img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=fff"/></a>
+
 <br/>
 <br/>
+
 <sub>Powered by caffeine</sub>
 </div>
