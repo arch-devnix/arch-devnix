@@ -12,6 +12,8 @@
 <br/>
 <br/>
 
+
+**Stack**
 [![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=fff)]()
 [![Arch](https://img.shields.io/badge/Arch-000?style=flat&logo=archlinux&logoColor=fff)]()
 [![Git](https://img.shields.io/badge/Git-000?style=flat&logo=git&logoColor=fff)]()
