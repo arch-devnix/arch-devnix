@@ -8,16 +8,14 @@
 
 ==============================================
 
-> arch-devnix
-> young programmer, still leveling up
+arch-devnix
+young programmer, still leveling up
 
-status
-> 🐍 mainly write Python
-> 🐧 daily driving Arch Linux (btw)
-> 🌱 currently learning ...
-> 👯 open to collaborating on ...
-> 💬 ask me about ...
-> 📫 reach me at ...
+status:
+
+🐍 mainly write Python
+🐧 daily driving Arch Linux (btw)
+🌱 currently learning HTML
 
 ==============================================
 
