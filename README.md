@@ -19,7 +19,7 @@
   <br/>
 
   <a href="https://www.codewars.com/users/arch-devnix">
-    <img src="https://img.shields.io/badge/CodeWars-arch--devnix-000000?style=flat&logo=codewars&logoColor=fff" alt="CodeWars" />
+    <img src="https://img.shields.io/badge/dynamic/json?style=flat&logo=codewars&logoColor=fff&label=CodeWars&query=%24.ranks.overall.name&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2Farch-devnix&color=000000&labelColor=000000" alt="CodeWars Rank" />
   </a>
 
   <br/><br/>
