@@ -8,7 +8,7 @@
   <br/><br/>
   
   <!-- Stack Section -->
-  <h3>🛠️ Stack</h3>
+  <h3>Stack</h3>
   
   <a href="#"><img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=fff" alt="Python" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Arch_Linux-000000?style=flat-square&logo=archlinux&logoColor=fff" alt="Arch Linux" /></a>
@@ -19,7 +19,7 @@
   <br/><br/>
   
   <!-- Stats Section -->
-  <h3>📊 Stats</h3>
+  <h3>Stats</h3>
   
   <a href="https://www.codewars.com/users/arch-devnix">
     <img src="https://github.r2v.ch/codewars?user=arch-devnix&name=true&top_languages=true&theme=dark&stroke=%23000000" alt="CodeWars Stats" />
@@ -28,12 +28,12 @@
   <br/><br/>
   
   <!-- Socials Section -->
-  <h3>🔗 Connect</h3>
+  <h3>Connect</h3>
   
   <a href="https://github.com/arch-devnix"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub" /></a>
   <a href="https://linktr.ee/devnix"><img src="https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=linktree&logoColor=fff" alt="Linktree" /></a>
   
   <br/><br/>
   
-  <sub>⚡ Powered by caffeine</sub>
+  <sub>Powered by caffeine</sub>
 </div>
