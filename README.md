@@ -32,5 +32,5 @@
   
   <br/><br/>
   
-  <sub>⚡ Powered by caffeine</sub>
+  <sub>Powered by caffeine</sub>
 </div>
