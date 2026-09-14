@@ -22,7 +22,7 @@
   <h3>Stats</h3>
   
   <a href="https://www.codewars.com/users/arch-devnix">
-    <img src="https://github.r2v.ch/codewars?user=arch-devnix&name=true&top_languages=true&theme=dark&stroke=%23000000" alt="CodeWars Stats" />
+    <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&logo=codewars&logoColor=fff&label=CodeWars&labelColor=000000&color=000000&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2Farch-devnix&query=%24.ranks.overall.name" alt="CodeWars Rank" />
   </a>
   
   <br/><br/>
