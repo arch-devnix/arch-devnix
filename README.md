@@ -16,7 +16,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=fff" alt="Docker" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Neovim-000000?style=flat-square&logo=neovim&logoColor=fff" alt="Neovim" /></a>
   
-  <br/><br/>
+  <br><br>
   
   <!-- Stats Section -->
   <h3>Stats</h3>
@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&logo=codewars&logoColor=fff&label=CodeWars&labelColor=000000&color=000000&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2Farch-devnix&query=%24.ranks.overall.name" alt="CodeWars Rank" />
   </a>
   
-  <br/><br/>
+  <br><br>
   
   <!-- Socials Section -->
   <h3>Connect</h3>
@@ -33,7 +33,7 @@
   <a href="https://github.com/arch-devnix"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub" /></a>
   <a href="https://linktr.ee/devnix"><img src="https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=linktree&logoColor=fff" alt="Linktree" /></a>
   
-  <br/><br/>
+  <br><br>
   
   <sub>Powered by caffeine</sub>
 </div>
