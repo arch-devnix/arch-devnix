@@ -11,6 +11,9 @@
   <h3>Stack</h3>
   
   <a href="#"><img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=fff" alt="Python" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=javascript&logoColor=fff" alt="Javascript" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=fff" alt="HTML" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css&logoColor=fff" alt="CSS" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Arch_Linux-000000?style=flat-square&logo=archlinux&logoColor=fff" alt="Arch Linux" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=fff" alt="Git" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=fff" alt="Docker" /></a>
