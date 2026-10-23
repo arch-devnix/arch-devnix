@@ -35,6 +35,8 @@
   
   <a href="https://github.com/arch-devnix"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub" /></a>
   <a href="https://linktr.ee/devnix"><img src="https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=linktree&logoColor=fff" alt="Linktree" /></a>
+  <a href="https://guns.lol/devnix"><img src="https://shields.io/badge/Guns" alt="Guns.lol" /></a>
+
   
   <br><br>
   
